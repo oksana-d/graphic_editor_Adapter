@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="graphics_editor.AbstractFactory" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.ConcreteFactoryCircle" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.ConcreteFactoryRectangular" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.AbstractHolst" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.AbstractPen" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>abstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.CirclePen" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIgAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.RectangularPen" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIgAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.UserText" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAIAAAAQAAAAAA=</HashCode>
+      <FileName>Adapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.Adapter" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Adapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.Adaptee" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAIAAAAEBAAAAABgAAAAAAA=</HashCode>
+      <FileName>Adapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.CircleForm" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgQAEAgCEAQgIAAIiAQCACAggAQIAIGABoCABAhAA=</HashCode>
+      <FileName>CircleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.MainForm" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQQACAAAAAAAACAAAACAAAgAAAAIAABAAAAgAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.Program" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.RectangularForm" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgQAEAgCEAQgIAAIiAQCACAggAQIAIGABoCQBAgAA=</HashCode>
+      <FileName>RectangularForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.SizePen" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAICAAAADAAAIACAAEEAAAAAAAAA=</HashCode>
+      <FileName>SizePen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.Properties.Resources" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphics_editor.Properties.Settings" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
